@@ -29,3 +29,8 @@ only for convenience.
 
 All was done following excellent guide found at Blitter Studio:
 http://blitterstudio.com/setting-up-an-amiga-cross-compiler-windows/ and http://blitterstudio.com/setting-up-an-amiga-cross-compiler-windows-part-2/
+
+## VBCC documentation
+
+http://www.ibaug.de/vbcc/doc/vbcc.html
+

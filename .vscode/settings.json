@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "intuition.h": "c",
+        "intuition_protos.h": "c"
+    }
+}
